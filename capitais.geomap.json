@@ -1,0 +1,137 @@
+[
+    {
+        "Capitais": "Aracaju",
+        "latitude": -10.9167,
+        "longitude": -37.05
+    },
+    {
+        "Capitais": "Belém",
+        "latitude": -1.4558,
+        "longitude": -48.5039
+    },
+    {
+        "Capitais": "Belo Horizonte",
+        "latitude": -19.9167,
+        "longitude": -43.9333
+    },
+    {
+        "Capitais": "Boa Vista",
+        "latitude": 2.8197,
+        "longitude": -60.6778
+    },
+    {
+        "Capitais": "Brasília",
+        "latitude": -15.7939,
+        "longitude": -47.8828
+    },
+    {
+        "Capitais": "Campo Grande",
+        "latitude": -20.4699,
+        "longitude": -54.6
+    },
+    {
+        "Capitais": "Cuiabá",
+        "latitude": -15.5978,
+        "longitude": -56.0997
+    },
+    {
+        "Capitais": "Curitiba",
+        "latitude": -25.4297,
+        "longitude": -49.2711
+    },
+    {
+        "Capitais": "Florianópolis",
+        "latitude": -27.5956,
+        "longitude": -48.5478
+    },
+    {
+        "Capitais": "Fortaleza",
+        "latitude": -3.7275,
+        "longitude": -38.5275
+    },
+    {
+        "Capitais": "Goiânia",
+        "latitude": -16.6667,
+        "longitude": -49.25
+    },
+    {
+        "Capitais": "João Pessoa",
+        "latitude": -7.12,
+        "longitude": -34.88
+    },
+    {
+        "Capitais": "Macapá",
+        "latitude": 0.033,
+        "longitude": -51.05
+    },
+    {
+        "Capitais": "Maceió",
+        "latitude": -9.6481,
+        "longitude": -35.7172
+    },
+    {
+        "Capitais": "Manaus",
+        "latitude": -3.1189,
+        "longitude": -60.0217
+    },
+    {
+        "Capitais": "Natal",
+        "latitude": -5.7833,
+        "longitude": -35.2
+    },
+    {
+        "Capitais": "Palmas",
+        "latitude": -10.1769,
+        "longitude": -48.3303
+    },
+    {
+        "Capitais": "Porto Alegre",
+        "latitude": -30.0331,
+        "longitude": -51.23
+    },
+    {
+        "Capitais": "Porto Velho",
+        "latitude": -8.7619,
+        "longitude": -63.9039
+    },
+    {
+        "Capitais": "Recife",
+        "latitude": -8.05,
+        "longitude": -34.9
+    },
+    {
+        "Capitais": "Rio Branco",
+        "latitude": -9.975,
+        "longitude": -67.8144
+    },
+    {
+        "Capitais": "Rio de Janeiro",
+        "latitude": -22.9111,
+        "longitude": -43.2056
+    },
+    {
+        "Capitais": "Salvador",
+        "latitude": -12.9747,
+        "longitude": -38.4767
+    },
+    {
+        "Capitais": "São Luís",
+        "latitude": -2.5283,
+        "longitude": -44.3044
+    },
+    {
+        "Capitais": "São Paulo",
+        "latitude": -23.55,
+        "longitude": -46.6333
+    },
+    {
+        "Capitais": "Teresina",
+        "latitude": -5.0919,
+        "longitude": -42.8036
+    },
+    {
+        "Capitais": "Vitória",
+        "latitude": -20.3194,
+        "longitude": -40.3378
+    }
+]
